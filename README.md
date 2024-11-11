@@ -28,6 +28,14 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/e452dacb-fa1d-403d-922b-a366f7972a99)
+![image](https://github.com/user-attachments/assets/fdc1d7b5-934e-492c-99c7-2dcb0e995643)
+![image](https://github.com/user-attachments/assets/0185a197-2c63-43ac-914b-9b2e0bc5e8a1)
+
+
+
+
 
 ## Acknowledgements
 
